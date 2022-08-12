@@ -6,7 +6,8 @@ Customer Segementation using RFM analysis.
 ## Introduction 
 
  
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/intro_.jpg) 
+
       
 #### What is Segment Customers?
 
@@ -80,7 +81,7 @@ The dataset consists of 541909 examples and  8 columns.
 
 Columns :
 
-![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/columns.pn)
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/columns.png)
 
 
 ### Data Preprocessing
@@ -113,21 +114,24 @@ We group the Recency, Frequency, Monetary into four groups selected by Elbow met
 
  Recency Cluster
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
-  
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/rescency_cluster.png)
+
 Frequency Cluster
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
-  
+
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/Frequency_cluster.png) 
+
 Revenue Cluster
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
- 
- Overall Scoring
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
+
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/revenue_cluster.png) 
+
+Overall Scoring
+
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/overall_mean.png)
 
 
 Segemented Customers
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images/)
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/seg_cust.png)
 
 ## Contributing
 
