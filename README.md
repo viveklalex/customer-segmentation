@@ -80,8 +80,7 @@ The dataset consists of 541909 examples and  8 columns.
 
 Columns :
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/resume_ner/main/images)
-
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/columns.pn)
 
 
 ### Data Preprocessing
