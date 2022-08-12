@@ -118,7 +118,7 @@ We group the Recency, Frequency, Monetary into four groups selected by Elbow met
 
 Frequency Cluster
 
-![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/Frequency_cluster.png) 
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/frequency_cluster.png) 
 
 Revenue Cluster
 
@@ -131,7 +131,7 @@ Overall Scoring
 
 Segemented Customers
 
-![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/seg_cust.png)
+![alt text](https://raw.githubusercontent.com/viveklalex/customer-segmentation/master/images/clust.png)
 
 ## Contributing
 
